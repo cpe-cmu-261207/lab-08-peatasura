@@ -24,4 +24,4 @@ Deploy with app name : <b>`gpa-express-api-YourStudentCode`</b>
 
 **Write your Heroku deploy link here** : 
 
-https://dashboard.heroku.com/apps/gpa-express-api-620610796/deploy/heroku-git
+https://gpa-express-api-620610796.herokuapp.com/
